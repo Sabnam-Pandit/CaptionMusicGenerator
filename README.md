@@ -40,9 +40,6 @@ The system is built using **TensorFlow**, **NLTK**, **Gensim**, **scikit-learn**
 All code and application files are available on my collaborator’s GitHub:  
  **[GitHub Repository – ImageDrivenCaptioningAndCustomMusicRecommendations](https://github.com/ManishaMatta/ImageDrivenCaptioningAndCustomMusicRecommendations)**
 
-## Report
-
-You can find the complete project report with detailed methodology and architecture [here](./Report_Image-Driven_Captioning_with_Custom_Music_Recommendation.pdf).
 
 ##  Authors
 
