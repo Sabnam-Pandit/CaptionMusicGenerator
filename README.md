@@ -42,7 +42,7 @@ All code and application files are available on my collaborator’s GitHub:
  
 ## Results
 ### Results
-![Output_1.png](resources%2Fpictures%2Fdoc%2FOutpur_1.png)
+![Output_1](https://raw.githubusercontent.com/Sabnam-Pandit/CaptionMusicGenerator/main/Output_1.png)
 ![Output_2.png](resources%2Fpictures%2Fdoc%2FOutput_2.png)
 ![Output_3.png](resources%2Fpictures%2Fdoc%2FOutput_3.png)
 
