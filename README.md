@@ -45,7 +45,7 @@ All code and application files are available on my collaborator’s GitHub:
 <br>
 <img width="445" alt="Output_2" src="https://github.com/user-attachments/assets/303638bd-a354-489b-98bd-205b72104ddc" />
 <br>
-![out_3](https://github.com/user-attachments/assets/2be7b31b-ada7-48bc-87b3-06eb8790dfb6)
+<img width="445" alt="out_3" src="https://github.com/user-attachments/assets/2be7b31b-ada7-48bc-87b3-06eb8790dfb6" />
 
 
 
